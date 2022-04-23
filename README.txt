@@ -9,9 +9,9 @@
     i>cd C:\\xampp\htdocs\
    ii>git clone https://github.com/NafzaouiYoussef/iDonor 
 or
-   ii>git clone https://github.com/HoussamElouafi/iDonor2
+   ii>git clone https://github.com/HoussamElouafi/iDonor
 or
-   ii>git clone https://github.com/EttaibAssaad/iDonor3
+   ii>git clone https://github.com/EttaibAssaad/iDonor
 
 5-Extract files in C:\xampp\htdocs.
 
